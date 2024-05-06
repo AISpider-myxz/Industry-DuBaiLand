@@ -1,0 +1,5 @@
+[core]
+	bare = false
+[remote "origin"]
+	url = /root/crawlab_repo/66388df6d055ec4b2f6c5e59
+	fetch = +refs/heads/*:refs/remotes/origin/*
